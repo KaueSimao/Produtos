@@ -1,0 +1,9 @@
+{
+  "produtos" : [
+    {"id" : 1, "name" : "Milho", "preco": "3,99", "validade": "02/25","fabricacao":"09/22"},
+    {"id" : 2, "name" : "Feijão", "preco": "5,00", "validade": "12/24","fabricacao":"05/22"},
+    {"id" : 3, "name" : "Arroz", "preco": "9,00", "validade": "04/25", "fabricacao":"02/22"},
+    {"id" : 4, "name" : "Açucar", "preco": "5,99", "validade" : "11/23", "fabricacao":"01/23"},
+    {"id" : 5, "name" : "Farinha", "preco": "3,00", "validade" : "07/24", "fabricacao":"04/23"}
+  ]
+}
